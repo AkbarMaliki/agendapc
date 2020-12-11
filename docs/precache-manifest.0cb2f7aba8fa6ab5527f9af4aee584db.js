@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "browserconfig.xml"
   },
   {
-    "revision": "9a9e1f64303dde7aef5d",
+    "revision": "3e50b6c05e0edf9f79d0",
     "url": "css/app.c657e936.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-6f5e971b.7ef69c7b.css"
   },
   {
-    "revision": "086c7225608864e81c9d",
+    "revision": "1c056c422822304feee0",
     "url": "css/chunk-af48f40c.78b9cff2.css"
   },
   {
@@ -32,11 +32,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors.3c903ecd.css"
   },
   {
-    "revision": "bf7822fd94266949898b",
+    "revision": "7789e7b0d91e8c5e049f",
     "url": "css/page-android.abdf1d62.css"
   },
   {
-    "revision": "90bd16900a707346fbc3",
+    "revision": "57fc504b4b6999c72aff",
     "url": "css/page-index.d461aa2b.css"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/page-laporan-print.289e78d4.css"
   },
   {
-    "revision": "540c676c6923ae7a95b6",
+    "revision": "f91abcc6b42172839dde",
     "url": "css/page-test.abdf1d62.css"
   },
   {
@@ -188,12 +188,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "ab5cc197a6aca75a63e93fa2733c2f27",
+    "revision": "63502afaf33652982ee7acbddee77b61",
     "url": "index.html"
   },
   {
-    "revision": "9a9e1f64303dde7aef5d",
-    "url": "js/app.a70014f6.js"
+    "revision": "3e50b6c05e0edf9f79d0",
+    "url": "js/app.7e621f91.js"
   },
   {
     "revision": "3fcd4619830fcd29b4f2",
@@ -208,8 +208,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-757b312e.f1e3a0a5.js"
   },
   {
-    "revision": "086c7225608864e81c9d",
-    "url": "js/chunk-af48f40c.f24f0495.js"
+    "revision": "1c056c422822304feee0",
+    "url": "js/chunk-af48f40c.3d46659e.js"
   },
   {
     "revision": "aa55967ac61bf27c4fc3",
@@ -220,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-about.1ed46d6c.js"
   },
   {
-    "revision": "bf7822fd94266949898b",
-    "url": "js/page-android.299644d8.js"
+    "revision": "7789e7b0d91e8c5e049f",
+    "url": "js/page-android.24e15e7c.js"
   },
   {
     "revision": "733fb36649cda9a0d5ec",
@@ -244,8 +244,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-auth-register.c03da32f.js"
   },
   {
-    "revision": "90bd16900a707346fbc3",
-    "url": "js/page-index.ef45def7.js"
+    "revision": "57fc504b4b6999c72aff",
+    "url": "js/page-index.e81d15bb.js"
   },
   {
     "revision": "070e48004924358a2ddf",
@@ -276,8 +276,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-setting.69c329af.js"
   },
   {
-    "revision": "540c676c6923ae7a95b6",
-    "url": "js/page-test.73469521.js"
+    "revision": "f91abcc6b42172839dde",
+    "url": "js/page-test.d60a434c.js"
   },
   {
     "revision": "cea39ac622d6a4b4286b",
